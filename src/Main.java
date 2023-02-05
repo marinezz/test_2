@@ -4,7 +4,7 @@ public class Main {
         System.out.println("hello v2");
         System.out.println("hello v3");
         System.out.println("hello v4");
-        System.out.println("master fix...");
-        System.out.println("master fix ...");
+        System.out.println("bug fix ...");
+        System.out.println("bug fix ...");
     }
 }
