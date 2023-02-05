@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world! v1");
+        System.out.printf("hello v2");
+        System.out.printf("hello v3");
     }
 }
