@@ -7,5 +7,6 @@ public class Main {
         System.out.println("bug fix ...");
         System.out.println("bug fix ...");
         System.out.println("github ...");
+        System.out.println("代码被修改了 ...");
     }
 }
